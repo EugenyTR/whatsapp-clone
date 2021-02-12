@@ -3,6 +3,9 @@ import { Text, View } from 'react-native';
 import { Message } from "../../types";
 import moment from "moment";
 
+import styles from './styles';
+import {backgroundColor} from "react-native-tab-view/lib/typescript/example/src/CoverflowExample";
+
 export type ChatMessageProps = {
     message: Message;
 }
@@ -10,11 +13,24 @@ export type ChatMessageProps = {
 const ChatMessage = (props: ChatMessageProps) => {
     const { message } = props;
 
+    const isMyMessage = () => {
+        return message.user.id === 'u2'
+    };
+
     return (
-        <View>
-            <Text>{message.user.name}</Text>
-            <Text>{message.content}</Text>
-            <Text>{moment(message.createdAt).fromNow()}</Text>
+        <View style={styles.container}>
+            <View style={[
+                styles.messageBox,
+                {
+                    backgroundColor: isMyMessage() ? "#dcf8c5" : "#fff",
+                    marginLeft: isMyMessage() ? 50 : 0,
+                    marginRight: isMyMessage() ? 0 : 50
+                }
+            ]}>
+                {!isMyMessage() && <Text style={styles.name}>{message.user.name}</Text>}
+                <Text style={styles.message}>{message.content}</Text>
+                <Text style={styles.time}>{moment(message.createdAt).fromNow()}</Text>
+            </View>
         </View>
     );
 };
