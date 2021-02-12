@@ -11,8 +11,8 @@ export default [{
     }],
     lastMessage: {
         id: 'm1',
-        content: 'Well done this sprint, guys!',
-        createdAt: '2020-10-03T14:48:00.000Z',
+        content: 'Many different kinds of people use React Native: from advanced iOS developers to React beginners, to people getting started programming for the first time in their career. These docs were written for all learners, no matter their experience level or background',
+        createdAt: '2020-10-03',
     }
 }, {
     id: '2',
@@ -27,119 +27,119 @@ export default [{
     }],
     lastMessage: {
         id: 'm2',
-        content: 'How are you doing?',
-        createdAt: '2020-10-02T15:40:00.000Z',
+        content: 'You can start here and read through these docs linearly like a book; or you can read the specific sections you need. Already familiar with React?',
+        createdAt: '2020-10-02',
     }
 }, {
     id: '3',
     users: [{
         id: 'u1',
-        name: 'Vadim',
+        name: 'Eugeny',
         imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
     }, {
         id: 'u4',
-        name: 'Alex',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/120265890_2659046234308755_83273782629061168_n.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_eui2=AeFydVcQHwdfhPgKavejHgTkZj50mLqkTwRmPnSYuqRPBBjekO0sZKdUNlELv62Htps4xAUKslo4tD8g8YyTPQ50&_nc_ohc=YcnPR2BvKUgAX_rSMDJ&_nc_ht=scontent.fkiv3-1.fna&oh=ea3bcd9c21e5538c744e4cb19464713b&oe=5F9E4002',
+        name: 'Julia',
+        imageUri: 'https://sun4-17.userapi.com/s/v1/ig2/Xe0wDxl_j3mm3p1hltu_0e3i9H8VscexrXw8DbLwGD1CSYJk5-qPdvpFpVBm4Wi0xKc3wNLxUqWpro5F-7bPT_9a.jpg?size=50x0&quality=96&crop=0,185,750,750&ava=1',
     }],
     lastMessage: {
         id: 'm3',
-        content: 'Hi, Vadim.',
-        createdAt: '2020-10-02T14:48:00.000Z',
+        content: 'Hi, Eugeny.',
+        createdAt: '2020-10-02',
     }
 }, {
     id: '4',
     users: [{
         id: 'u1',
-        name: 'Vadim',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+        name: 'Eugeny',
+        imageUri: 'https://sun4-16.userapi.com/s/v1/if1/BTpi3YYeNeJ46oRh4FV7Euv8jUuRa-TM_EoZMQEU8ESBm6nv-jWyms2LjWvKAJOHSDpsLw.jpg?size=50x0&quality=96&crop=187,0,449,449&ava=1',
     }, {
         id: 'u5',
-        name: 'Vlad',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.15752-9/120640479_2760477844167786_6938949653508389840_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_eui2=AeGVhYmC95nNnVy1xOf6ArJ2jSXP0lcbAsGNJc_SVxsCwevGmgj2fByDCyiWY8iQK-k-KkqYMmK-pPRahQiFUqAT&_nc_ohc=0d4q0ZI3HTgAX_0LSog&_nc_ht=scontent.fkiv3-1.fna&oh=c9155df4d012070901bce3e8f0e2d877&oe=5F9F9DF5',
+        name: 'Evgenia',
+        imageUri: 'https://sun4-15.userapi.com/s/v1/if2/jUn6PD_FrCIvSN2husUsr0I3dnDpH5eKcIjCYaKYNxt8OvlsRC8_r2WafTNyr6adKBs3RpY7zQlxBLkIFHN7NhmA.jpg?size=50x0&quality=96&crop=3,280,1602,1602&ava=1',
     }],
     lastMessage: {
         id: 'm4',
-        content: 'Can you review my last merge',
-        createdAt: '2020-09-29T14:48:00.000Z',
+        content: 'To work with React Native, you will need to have an understanding of JavaScript fundamentals.',
+        createdAt: '2020-09-29',
     }
 }, {
     id: '5',
     users: [{
         id: 'u1',
-        name: 'Vadim',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+        name: 'Eugeny',
+        imageUri: 'https://sun4-16.userapi.com/s/v1/if1/BTpi3YYeNeJ46oRh4FV7Euv8jUuRa-TM_EoZMQEU8ESBm6nv-jWyms2LjWvKAJOHSDpsLw.jpg?size=50x0&quality=96&crop=187,0,449,449&ava=1',
     }, {
         id: 'u6',
-        name: 'Elon Musk',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/117929133_107809907710190_7419805747453745280_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_eui2=AeHyr9m8dMUXCyqgYiDxTTMqypeilYrkr1_Kl6KViuSvX2aKglh0TaInpI6Uqbk8nRSKq6iOQuTncbpb6Uik2iH8&_nc_ohc=YusbV4P7yQMAX9ptPAN&_nc_ht=scontent.fkiv3-1.fna&oh=ebee2db09b2a70c9dbef1bdad876c09c&oe=5F9D4112',
+        name: 'Maria',
+        imageUri: 'https://sun4-17.userapi.com/s/v1/ig1/iyCAOpipoGRoNzY9jOCcfTaQMTqaHp7ponhP44gFF_6yfJAGYyvN6o3ThPwdiFxqlaX45v0d.jpg?size=100x0&quality=96&crop=3,2,2151,2151&ava=1',
     }],
     lastMessage: {
         id: 'm5',
-        content: 'I would be happy',
-        createdAt: '2020-09-30T14:48:00.000Z',
+        content: 'The above is a Snack Player. It’s a handy tool created by Expo to embed and run React Native projects and share how they render in platforms like Android and iOS. The code is live and editable, so you can play directly with it in your browser. ',
+        createdAt: '2020-09-30',
     }
 }, {
     id: '6',
     users: [{
         id: 'u1',
-        name: 'Vadim',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+        name: 'Eugeny',
+        imageUri: 'https://sun4-16.userapi.com/s/v1/if1/BTpi3YYeNeJ46oRh4FV7Euv8jUuRa-TM_EoZMQEU8ESBm6nv-jWyms2LjWvKAJOHSDpsLw.jpg?size=50x0&quality=96&crop=187,0,449,449&ava=1',
     }, {
         id: 'u7',
-        name: 'Adrian',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-8/12185020_10206884996416284_5116038671917824834_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_eui2=AeGr_NhJtwGWWfHbkoBSmifLKzIg47DpEF0rMiDjsOkQXf7yavDd4m-3CLbl5nqAMGcj2nn0Dqg7beNAzuZMzTFK&_nc_ohc=KOCn_AYCJxkAX_ZcLBP&_nc_ht=scontent.fkiv3-1.fna&oh=8cc4e5445ce4633db9d6234f42ccb368&oe=5F9C24D1',
+        name: 'Maria',
+        imageUri: 'https://sun4-17.userapi.com/s/v1/ig2/KPQadDV-5Cr36Syt1MxLeEU2I-UWJ0uhPpRk2OAaxuWHc8l-N3ybLmiUOA892ZzEg9ZLNaBdECCaRF5PlV2qGjEa.jpg?size=100x0&quality=96&crop=0,189,1620,1620&ava=1',
     }],
     lastMessage: {
         id: 'm6',
-        content: 'I have a solution',
-        createdAt: '2020-10-02T15:40:00.000Z',
+        content: 'With React, you can make components using either classes or functions. Originally, class components were the only components that could have state. ',
+        createdAt: '2020-10-02',
     }
 }, {
     id: '7',
     users: [{
         id: 'u1',
-        name: 'Vadim',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+        name: 'Eugeny',
+        imageUri: 'https://sun4-16.userapi.com/s/v1/if1/BTpi3YYeNeJ46oRh4FV7Euv8jUuRa-TM_EoZMQEU8ESBm6nv-jWyms2LjWvKAJOHSDpsLw.jpg?size=50x0&quality=96&crop=187,0,449,449&ava=1',
     }, {
         id: 'u8',
-        name: 'Borja',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/14639688_10154618563394501_7732414502546927586_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_eui2=AeHoAmU6vBHtxse4pY5lCxy5mE72isysx5eYTvaKzKzHl0wF5HhppdSbpFTEnGVXBMLig16R9B4iHrsuAOk_V_fY&_nc_ohc=Sit1NLT0GMsAX9baI56&_nc_ht=scontent.fkiv3-1.fna&oh=16d88a54bb1629c24e77afed0c49f869&oe=5F9EAC05',
+        name: 'Anna',
+        imageUri: 'https://sun4-10.userapi.com/s/v1/if1/2UNEoTvRQNzGLEoqKb-jnwwbBTuIoDnhjPTU7POS7VkjK2v2bCNZVrIMNXhO5-P1Kf6WqOu9.jpg?size=100x0&quality=96&crop=4,115,842,842&ava=1',
     }],
     lastMessage: {
         id: 'm7',
-        content: 'How are you doing?',
-        createdAt: '2020-10-02T15:40:00.000Z',
+        content: 'People from many different development backgrounds are learning React Native. You may have experience with a range of technologies, from web to Android to iOS and more. ',
+        createdAt: '2020-10-02',
     }
 }, {
     id: '8',
     users: [{
         id: 'u1',
-        name: 'Vadim',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+        name: 'Eugeny',
+        imageUri: 'https://sun4-16.userapi.com/s/v1/if1/BTpi3YYeNeJ46oRh4FV7Euv8jUuRa-TM_EoZMQEU8ESBm6nv-jWyms2LjWvKAJOHSDpsLw.jpg?size=50x0&quality=96&crop=187,0,449,449&ava=1',
     }, {
         id: 'u9',
-        name: 'Mom',
-        imageUri: 'https://image.shutterstock.com/image-vector/super-mom-hero-superhero-cartoon-600w-720015928.jpg',
+        name: 'Marina',
+        imageUri: 'https://sun4-16.userapi.com/s/v1/if2/pJ3ZvUYQGR2qc4qyZRuQEF3K58B10JkbW78-IxxBw5TFVeCimMlU_Auk0jBZSZw_dS9Cm4YuhL1jNp8YGpFQe8JZ.jpg?size=100x0&quality=96&crop=133,133,1066,1066&ava=1',
     }],
     lastMessage: {
         id: 'm8',
-        content: 'Dear, did you eat?',
-        createdAt: '2020-09-27T15:40:00.000Z',
+        content: 'Menu paths are written in bold and use carets to navigate submenus. ',
+        createdAt: '2020-09-27',
     }
 }, {
     id: '9',
     users: [{
         id: 'u1',
-        name: 'Vadim',
-        imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+        name: 'Eugeny',
+        imageUri: 'https://sun4-16.userapi.com/s/v1/if1/BTpi3YYeNeJ46oRh4FV7Euv8jUuRa-TM_EoZMQEU8ESBm6nv-jWyms2LjWvKAJOHSDpsLw.jpg?size=50x0&quality=96&crop=187,0,449,449&ava=1',
     }, {
         id: 'u10',
-        name: 'Angelina Jolie',
-        imageUri: 'https://lkbkspro.s3.amazonaws.com/atelier-management/gs_58d933b8-98b4-468e-b229-43100a9620a7.jpg',
+        name: 'Valeria',
+        imageUri: 'https://sun4-17.userapi.com/s/v1/if1/UzTyTMtWp9zyFYitI9cpvpzmcHJ2srzftsB8n_YKFiLzG_J4-39vr8alrjfQSzV3jLjkOg.jpg?size=100x0&quality=96&crop=39,1,399,399&ava=1',
     }],
     lastMessage: {
         id: 'm9',
-        content: 'Meet me at the same place',
-        createdAt: '2020-09-25T15:40:00.000Z',
+        content: 'Now that you know how this guide works, it\'s time to get to know the foundation of React Native',
+        createdAt: '2020-09-25',
     },
 }]
