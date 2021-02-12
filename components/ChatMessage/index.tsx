@@ -4,7 +4,6 @@ import { Message } from "../../types";
 import moment from "moment";
 
 import styles from './styles';
-import {backgroundColor} from "react-native-tab-view/lib/typescript/example/src/CoverflowExample";
 
 export type ChatMessageProps = {
     message: Message;
