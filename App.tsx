@@ -6,9 +6,6 @@ import useCachedResources from './hooks/useCachedResources';
 import useColorScheme from './hooks/useColorScheme';
 import Navigation from './navigation';
 
-// @ts-ignore
-import { withAuthenticator } from 'aws-amplify-react-native';
-
 import Amplify from 'aws-amplify';
 import config from './src/aws-exports';
 Amplify.configure(config);
@@ -29,4 +26,4 @@ function App() {
   }
 }
 
-export default withAuthenticator(App)
+export default App;
