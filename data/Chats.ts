@@ -2,68 +2,68 @@ export default {
     id: '1',
     users: [{
         id: 'u1',
-        name: 'Eugeny',
+        name: 'Александр',
         imageUri: 'https://avatars.githubusercontent.com/u/55189944?s=60&v=4',
     }, {
         id: 'u2',
-        name: 'Julia',
+        name: 'Юлия',
         imageUri: 'https://sun4-17.userapi.com/s/v1/ig2/Xe0wDxl_j3mm3p1hltu_0e3i9H8VscexrXw8DbLwGD1CSYJk5-qPdvpFpVBm4Wi0xKc3wNLxUqWpro5F-7bPT_9a.jpg?size=50x0&quality=96&crop=0,185,750,750&ava=1',
     }],
     messages: [{
         id: 'm1',
-        content: 'How are you, Julia!',
+        content: 'Минуты через три Кутька опять заворчала и издала звук, похожий на кашель.',
         createdAt: '2020-10-10',
         user: {
             id: 'u1',
-            name: 'Eugeny',
+            name: 'Александр',
         },
     }, {
         id: 'm2',
-        content: 'I am good, good',
+        content: 'В потемках глухо зазвучали робкие шаги, и из рощи показался силуэт женщины.',
         createdAt: '2020-10-03',
         user: {
             id: 'u2',
-            name: 'Julia',
+            name: 'Юлия',
         },
     }, {
         id: 'm3',
-        content: 'What about you?',
+        content: 'Она несмело подошла к нам, остановилась и тяжело перевела дыхание.',
         createdAt: '2020-10-03',
         user: {
             id: 'u2',
-            name: 'Julia',
+            name: 'Юлия',
         },
     }, {
         id: 'm4',
-        content: 'Good as well, preparing for the stream now.',
+        content: 'Запыхалась она не столько от ходьбы, сколько, вероятно, от страха и неприятного чувства, испытываемого всяким при переходе в ночное время через брод.',
         createdAt: '2020-10-03',
         user: {
             id: 'u1',
-            name: 'Eugeny',
+            name: 'Александр',
         },
     }, {
         id: 'm5',
-        content: 'How is your uni going?',
+        content: 'Впотьмах я не видел лица Агафьи, но, по движению ее плеч и головы, мне казалось, что она не отрывала глаз с лица Савки.',
         createdAt: '2020-10-03',
         user: {
             id: 'u1',
-            name: 'Eugeny',
+            name: 'Александр',
         },
     }, {
         id: 'm6',
-        content: 'It is a bit tough, as I have 2 specializations. How about yours? Do you enjoy it?',
+        content: 'Чтобы не быть третьим лицом на свидании, я решил пойти гулять и поднялся.',
         createdAt: '2020-10-03',
         user: {
             id: 'u2',
-            name: 'Julia',
+            name: 'Юлия',
         },
     }, {
         id: 'm7',
-        content: 'Big Data is really interesting. Cannot wait to go through all the material.',
+        content: 'Но в это время в роще неожиданно соловей взял две нижние контральтовые ноты.ююжюю',
         createdAt: '2020-10-03',
         user: {
             id: 'u1',
-            name: 'Eugeny',
+            name: 'Александр',
         },
     }]
 }
